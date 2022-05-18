@@ -1,0 +1,1 @@
+import{u as o}from"./hooks.0344a21a.js";import{y as u,o as a,p as n,G as s,C as r}from"./index.b2cfb768.js";const f=u({setup(i){const{initToDetail:e,id:t}=o();return e(),(p,c)=>(a(),n("div",null,s(r(t))+" - \u8BE6\u60C5\u9875\u5185\u5BB9\u5728\u6B64",1))}});export{f as default};
